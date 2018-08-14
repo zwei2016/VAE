@@ -2,7 +2,7 @@
 VAE in Pytorch:
 The VAE is realized in Pytorch 0.4.The Varaiable container is replaced by Tensor in this version.
 
-variational autoencoder (MLP encoder/decoder) and related models 
+Variational autoencoder (MLP encoder/decoder) and related models 
 A good introduction of VAE can be found in Jann's blog: https://jaan.io/what-is-variational-autoencoder-vae-tutorial/.
 
 The VAE in pytorch is inspired by the Dmitry Efimov's VAE Tutorials in Theano:http://efimov-ml.com/vae.html.  
