@@ -13,3 +13,5 @@ LSTM in Pytorch:
 The LSTMcell is realized with nn.Linear layer. The structure is simple and the result is tested with a online time series code.
 A good understanding of LSTM can be found in colah's blog: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 For this moment, some people do not like RNN + LSTM. However, the electrical circul like stucture and the backpropagation is very well combined. This kind of mechanism (backpropagation) is indeed a good option for 19th century machine-like automation.  
+
+The test code is from https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch with necessary modification. 
